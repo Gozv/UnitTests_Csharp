@@ -106,3 +106,12 @@ C:\Users\Bloodyslave\Desktop\NET PROYECT 1\NetworkUtility.Tests\bin\Debug\net6.0
 C:\Users\Bloodyslave\Desktop\NET PROYECT 1\NetworkUtility.Tests\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Bloodyslave\Desktop\NET PROYECT 1\NetworkUtility.Tests\bin\Debug\net6.0\NetworkUtility.dll
 C:\Users\Bloodyslave\Desktop\NET PROYECT 1\NetworkUtility.Tests\bin\Debug\net6.0\NetworkUtility.pdb
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Unit_Tests\NetworkUtility.Tests\bin\Debug\net6.0\CoverletSourceRootsMapping_NetworkUtility.Tests
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Unit_Tests\NetworkUtility.Tests\obj\Debug\net6.0\NetworkUtility.Tests.csproj.AssemblyReference.cache
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Unit_Tests\NetworkUtility.Tests\obj\Debug\net6.0\NetworkUtility.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Unit_Tests\NetworkUtility.Tests\obj\Debug\net6.0\NetworkUtility.Tests.AssemblyInfoInputs.cache
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Unit_Tests\NetworkUtility.Tests\obj\Debug\net6.0\NetworkUtility.Tests.AssemblyInfo.cs
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Unit_Tests\NetworkUtility.Tests\obj\Debug\net6.0\NetworkUtility.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Unit_Tests\NetworkUtility.Tests\obj\Debug\net6.0\NetworkUtility.Tests.dll
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Unit_Tests\NetworkUtility.Tests\obj\Debug\net6.0\refint\NetworkUtility.Tests.dll
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Unit_Tests\NetworkUtility.Tests\obj\Debug\net6.0\NetworkUtility.Tests.pdb
